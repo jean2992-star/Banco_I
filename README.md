@@ -7,5 +7,5 @@ Jean Ivelsonne Dorvilma - 2221101001
 no user_requirement.
 
 2)O modelo conceitual está na pasta  conceptual model, não aparece a parte para exportar 
-o arquivo fonte porém consego compartlhar o link publicamente aqui 
+o arquivo fonte porém consigo compartlhar o link publicamente aqui 
  https://app.brmodeloweb.com/#!/publicview/684f14412151efcbc472c724 .

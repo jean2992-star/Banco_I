@@ -15,6 +15,5 @@ há a imagem e a documentação que explicam o processo organizacional dos dados
 entre si, anexo o link do arquivo fonte aqui.
 https://app.quickdatabasediagrams.com/#/d/mRPI3B 
 
-
-4) Os scripts estão na pasta 4_script_dispesa_viagens onde há  as implementações
+4)Os scripts estão na pasta 4_script_dispesa_viagens onde há  as implementações
 conforme meu user requirement.
